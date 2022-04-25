@@ -38,7 +38,14 @@ mySimulation.run()
 mySimulation.showInterface()
 ```
 ### Code result 
-![screenshot](code_result.png)
+![screenshot](https://github.com/discoverySimulator/discoverySimulatorPythonPackage/blob/main/code_result.png?raw=true)
+
+## Example codes
+The simulator is accompanied by several example codes in the **examples** module. These codes can be run as follows:
+````python
+from discoverySimulator.examples import example_name
+example_name()
+````
 
 ## Help and bug reports
 General questions and comments can be sent to the following email address: [discoverysimulator@gmail.com](mailto:discoverysimulator@gmail.com).

@@ -29,6 +29,7 @@ from discoverySimulator.interface.views.Explorer import Explorer
 from discoverySimulator.interface.views.SceneOverview import SceneOverview
 from discoverySimulator.interface.views.Toolbar import Toolbar
 
+
 class Interface(QMainWindow):
     def __init__(self,simulation,environment):
         super().__init__()
